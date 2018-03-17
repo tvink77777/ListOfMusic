@@ -1,0 +1,27 @@
+.music-item {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.music-item .row {
+  display: flex;
+  align-items: baseline;
+}
+
+.music-item:nth-of-type(even) {
+  background-color: #ccc;
+}
+
+.music-item:nth-of-type(odd) {
+  background-color: #fff;
+}
+.expand-btn,
+.expand-btn:active,
+.expand-btn:focus {
+  font-size: 65px;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.expand-btn__wrapper {
+}

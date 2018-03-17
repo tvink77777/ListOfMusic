@@ -1,0 +1,7 @@
+.spinner {
+  width: 100%;
+}
+
+.spinner img {
+  max-width: 50px;
+}
