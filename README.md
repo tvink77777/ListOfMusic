@@ -1,1 +1,1 @@
-Start project: npm start
+Start project: npm install, npm start
